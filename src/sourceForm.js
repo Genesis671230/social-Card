@@ -1,0 +1,38 @@
+export const VcardInputs = [
+    {
+        id:"name",
+        label:"Name",
+        type:"text",
+        placeholder:"name",
+    },
+    {
+        id:"phone",
+        label:"Phone",
+        type:"number",
+        placeholder:"phone",
+    },
+    {
+        id:"email",
+        label:"Email",
+        type:"mail",
+        placeholder:"email",
+    },
+    {
+        id:"address",
+        label:"Address",
+        type:"text",
+        placeholder:"Elton St. 201 NewYork",
+    },
+    {
+        id:"website",
+        label:"Website",
+        type:"text",
+        placeholder:"website",
+    },
+    {
+        id:"date",
+        label:"Date",
+        type:"text",
+        placeholder:"website",
+    }
+]
